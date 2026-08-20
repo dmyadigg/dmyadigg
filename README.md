@@ -16,4 +16,4 @@ at work and beyond`
 ### *`contact`*
 
 **`telegram`** [`@dmyadigg`](https://dmyadigg.t.me)<br>
-**`discord`** [`@dmyadigg`](https://discord.com/users/839056322254602262)
+**`discord `** [`@dmyadigg`](https://discord.com/users/839056322254602262)
