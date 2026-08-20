@@ -1,18 +1,16 @@
-### *`about`*
+```toml
+[about]
+role = "backend-developer"
+description = "always exploring new approaches, paradigms, languages, and technologies — both at work and beyond"
 
-`backend-developer`<br>
-`always exploring new approaches, paradigms, languages, and technologies — both
-at work and beyond`
+[stack]
+langs = ["go", "rust", "php", "ts"]
+infra = ["postgresql", "redis", "docker", "linux"]
 
-### *`stack`*
+[currently]
+focus = "working on professional projects while expanding my horizons in it"
 
-**`langs`** `go, rust, php, ts`<br>
-**`infra`** `postgresql, redis, docker, linux`
-
-### *`currently`*
-
-`working on professional projects while expanding my horizons in it`
-
-### *`contact`*
-
-**`telegram`** [`@dmyadigg`](https://dmyadigg.t.me)
+[contact]
+telegram = "@dmyadigg"
+url = "https://dmyadigg.t.me"
+```
