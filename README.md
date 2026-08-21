@@ -1,3 +1,4 @@
+```markdown
 ### *`about`*
 
 `backend-developer`<br>
@@ -19,3 +20,4 @@ at work and beyond`
 **`discord `** [`@dmyadigg`](https://discord.com/users/839056322254602262)
 
 *Ya digg ??*
+```
